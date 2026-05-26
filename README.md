@@ -43,7 +43,10 @@ by going to Simulation ⇒ Start
 14.	Analyze and record your inference.
 
 ## Simulation
+<img width="1600" height="695" alt="image" src="https://github.com/user-attachments/assets/2bacb254-347e-4a09-a685-93925ff42328" />
 
 ## Output
+<img width="1600" height="574" alt="image" src="https://github.com/user-attachments/assets/9a7e459c-4b9e-4e9a-866b-2beeb4c147f4" />
 
 ## Result
+A three-phase full-wave thyristor-controlled rectifier was successfully designed and simulated in MATLAB/Simulink, and its controlled DC output characteristics were analyzed.
